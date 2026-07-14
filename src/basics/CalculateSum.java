@@ -1,5 +1,5 @@
 //sum of three numbers
-package Practicebasics;
+package basics;
 
 import java.util.Scanner;
 

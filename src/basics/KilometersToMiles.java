@@ -1,4 +1,4 @@
-package Practicebasics;
+package basics;
 /*
 Problem:
 Convert kilometers to miles.

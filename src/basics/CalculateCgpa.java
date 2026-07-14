@@ -1,7 +1,7 @@
 /*
 calculate cgpa using marks of 3 subjects
 */
-package Practicebasics;
+package basics;
 
 import java.util.Scanner;
 
